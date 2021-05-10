@@ -1,6 +1,6 @@
 # My Calculator
 
-<img src="demo.gif" width="200" height="400" />
+![My Calculator](https://media.giphy.com/media/RrNDvUse6SUBLjfh49/giphy.gif)
 
 Android Calculator Build using Kotlin
 
